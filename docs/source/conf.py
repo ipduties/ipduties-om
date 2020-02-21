@@ -20,7 +20,7 @@
 project = 'IP duties Operating Manual'
 copyright = '2020, Thorsten Schaefer'
 author = 'Thorsten Schaefer'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
